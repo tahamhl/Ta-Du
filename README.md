@@ -46,6 +46,8 @@ Ta-Du, modern ve kullanıcı dostu bir görev yönetim uygulamasıdır. PyQt5 il
 3. İndirilen `Ta-Du.exe` dosyasını çalıştırın
 4. Uygulama otomatik olarak başlayacaktır
 
+> **Not**: Bazı antivirüs yazılımları PyInstaller ile oluşturulan .exe dosyalarını yanlışlıkla virüs olarak algılayabilir. Bu bir yanlış pozitif uyarıdır. Uygulamamız tamamen güvenlidir ve açık kaynak kodludur. Kaynak kodunu inceleyebilir veya kendiniz derleyebilirsiniz.
+
 ## 🛠 Geliştirme Ortamı Kurulumu
 ```bash
 # Repoyu klonlayın
