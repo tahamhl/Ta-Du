@@ -42,8 +42,9 @@ Ta-Du, modern ve kullanıcı dostu bir görev yönetim uygulamasıdır. PyQt5 il
 
 ## 💻 Kurulum
 1. [Releases](https://github.com/tahamhl/ta-du/releases) sayfasından son sürümü indirin
-2. İndirilen `Ta-Du.exe` dosyasını çalıştırın
-3. Uygulama otomatik olarak başlayacaktır
+2. Veya direkt olarak [tahamehel.tr/Ta-Du/Ta-Du.rar](https://tahamehel.tr/Ta-Du/Ta-Du.rar) adresinden indirin
+3. İndirilen `Ta-Du.exe` dosyasını çalıştırın
+4. Uygulama otomatik olarak başlayacaktır
 
 ## 🛠 Geliştirme Ortamı Kurulumu
 ```bash
